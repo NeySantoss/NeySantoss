@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<h1 align="left">Olá, eu sou o Ney Santos! 👋</h1>
+<h1 align="left">Olá, Tudo Bem! 👋</h1>
 
 ###
 
@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu programo com</h2>
 
 ###
 
